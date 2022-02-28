@@ -1,1 +1,13 @@
-#qtclass-tutorials-authorization-for-network-applications
+# 网络应用用户鉴权
+
+本教程系统讲述在现代软件工程的标准下搭建网络应用的用户鉴权体系的方案。
+
+本教程假设：
+
+- 前后端分离。
+- 符合DevOps和云原生标准。
+
+本教程选取的技术方案：
+
+- 服务端为Django
+- 客户端为Flutter
