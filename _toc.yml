@@ -1,6 +1,7 @@
 format: jb-book
 root: README.md
 chapters:
+  - file: devops/README.md
   - file: identification_and_access_management/README.md
     sections:
       - file: identification_and_access_management/1_intro_to_idam/README.md
